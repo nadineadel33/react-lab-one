@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 50px;
+  }
+  
+  .profile-tab {
+    background-color: lightblue;
+  }
+  
